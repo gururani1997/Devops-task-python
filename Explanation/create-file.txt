@@ -1,0 +1,20 @@
+3. Write to a File
+
+Description:
+This program creates a text file and writes some content into it using Python’s file handling capabilities.
+
+How it works:
+
+The program opens (or creates) a text file in write mode using the open() function.
+
+It writes strings of text into the file using the write() method.
+
+The file is closed using the close() method to ensure all data is properly saved.
+
+Concepts used:
+
+File handling (open(), write(), close())
+
+String manipulation (adding newline characters for formatting)
+
+Basic input/output operations

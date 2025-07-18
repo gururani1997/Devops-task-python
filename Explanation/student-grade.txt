@@ -1,0 +1,26 @@
+2. Student Grades Management Using Dictionary
+
+Description:
+This program manages student names and their grades using a Python dictionary, allowing the user to add new students, update grades, and view all records.
+
+How it works:
+
+A dictionary is created with student names as keys and their grades as values.
+
+The program displays a menu with options to:
+
+Add a new student and grade (checks to prevent duplicates)
+
+Update an existing student’s grade (only if the student exists)
+
+Print all student grades
+
+User selections control the program flow through if-else logic inside a loop, enabling multiple operations until the user decides to exit.
+
+Concepts used:
+
+Dictionary operations (add, update, iterate)
+
+Control flow with if-elif-else and loops (while)
+
+Input validation and error handling

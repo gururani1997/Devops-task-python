@@ -1,0 +1,30 @@
+1. Grade Checker
+
+Description:
+This program takes a numerical score as input from the user and prints the corresponding grade based on a defined grading scale.
+
+How it works:
+
+The user inputs a score (usually between 0 and 100).
+
+Using a series of if-else statements, the program checks the score against different ranges:
+
+90 or above: Grade "A"
+
+80 to 89: Grade "B"
+
+70 to 79: Grade "C"
+
+60 to 69: Grade "D"
+
+Below 60: Grade "F"
+
+The program then outputs the grade corresponding to the input score.
+
+Concepts used:
+
+Conditional statements (if-elif-else)
+
+User input handling (input())
+
+Comparison operators (>=)
